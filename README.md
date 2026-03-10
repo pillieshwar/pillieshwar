@@ -11,7 +11,7 @@ Software Engineer 2 @ Amazon | Building AI Products
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://pillieshwar.vercel.app/">
+<a href="https://eshwarpilli.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -67,7 +67,7 @@ Software Engineer 2 @ Amazon | Building AI Products
 <img src="https://img.shields.io/badge/LinkedIn-Eshwar%20Pilli-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://pillieshwar.vercel.app/">
+<a href="https://eshwarpilli.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel"/>
 </a>
 
